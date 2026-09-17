@@ -1,5 +1,5 @@
-import streamlit as st
-
+import streamlit as st 
+st.imge("logo.jpg")
 # Cấu hình trang
 st.set_page_config(page_title="Tính Tiền Gửi Tiết Kiệm", page_icon="💰", layout="centered")
 
